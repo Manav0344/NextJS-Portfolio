@@ -9,7 +9,7 @@ This project highlights my skills, projects, and experience with a clean UI, smo
 
 ## 🌐 Live Demo
 
-🔗 [https://your-vercel-link.vercel.app](https://next-js-portfolio-seven-amber.vercel.app/)
+🔗 (https://next-js-portfolio-seven-amber.vercel.app/)
 
 ---
 
