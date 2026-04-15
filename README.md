@@ -1,36 +1,128 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Next.js Portfolio Website (AI-Powered)
 
-## Getting Started
+A modern, fully responsive **personal portfolio website** built using **Next.js with TypeScript**.
+This project highlights my skills, projects, and experience with a clean UI, smooth navigation, and high performance.
 
-First, run the development server:
+🤖 This project was developed with the help of AI tools to enhance productivity and code quality.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+---
+
+## 🌐 Live Demo
+
+🔗 https://your-vercel-link.vercel.app
+
+---
+
+## ✨ Features
+
+* ⚡ Built with **Next.js (App Router) + TypeScript**
+* 🎨 Clean and modern UI/UX
+* 📱 Fully responsive design (Mobile, Tablet, Desktop)
+* 🌙 Smooth scrolling and transitions
+* 📂 Multi-page structure (Home, About, Projects, Services, Contact)
+* 🚀 Fast performance with Turbopack
+* 🧠 AI-assisted development
+
+---
+
+## 🛠️ Tech Stack
+
+* **Framework:** Next.js (TypeScript)
+* **Frontend:** React.js
+* **Styling:** CSS / Tailwind CSS
+* **Language:** TypeScript
+* **Deployment:** Vercel
+* **Version Control:** Git & GitHub
+
+---
+
+## 📁 Project Structure
+
+```id="q6gbji"
+.
+├── app/
+│   ├── about/
+│   ├── contact/
+│   ├── projects/
+│   ├── services/
+│   ├── layout.tsx
+│   ├── page.tsx
+│
+├── components/
+│   ├── Navbar.tsx
+│   ├── Footer.tsx
+│   ├── Hero.tsx
+│   ├── ProjectCard.tsx
+│
+├── public/
+│   ├── images/
+│
+├── styles/
+│   ├── globals.css
+│
+├── next.config.ts
+├── tsconfig.json
+├── package.json
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ⚙️ Getting Started
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 1️⃣ Clone the repository
 
-## Learn More
+```id="l1t88r"
+git clone https://github.com/Manav0344/NextJS-Portfolio.git
+cd NextJS-Portfolio
+```
 
-To learn more about Next.js, take a look at the following resources:
+### 2️⃣ Install dependencies
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```id="n0hf9x"
+npm install
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 3️⃣ Run development server
 
-## Deploy on Vercel
+```id="b0v6ke"
+npm run dev
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+👉 Open http://localhost:3000
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🤖 AI Contribution
+
+This project was partially built using AI tools to:
+
+* Generate UI layouts
+* Improve code structure
+* Speed up development
+* Assist in debugging
+
+---
+
+## 📌 Future Improvements
+
+* 🔍 SEO Optimization
+* 🌐 Backend/API integration
+* ✨ Advanced animations
+* 📝 Blog section
+
+---
+
+## 🙋‍♂️ Author
+
+**Manav Solanki**
+
+* 📧 [manavsolanki344@gmail.com](mailto:manavsolanki344@gmail.com)
+* 📱 8905978910
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub and share it!
+
+---
